@@ -1,0 +1,33 @@
+Content:
+CSE389 project
+	A simple version of tomcat
+	Feature: logging, head, get, post, multi-threading, multi-document and cache
+	Language: java EE web
+	Environment : Eclipse 2019-09 java EE web project
+FitBook 1.1
+	Android app for gym member management
+	Feature Have different version for employee management and members management 
+	Source code in src/main/java/com/fitbook
+	Environment: Android studio
+ 	Language: java(kotlin)
+
+lagou_all
+	Web spider for job chance in different city and data visualization
+	Environment: terminal on OS X
+ 	Language: python
+
+Campus Trade 
+	Second hand trade website 
+	language : php mysql css html
+	environment : php+mysql 5.7.23
+
+	Windows or OS System 
+Read me:
+	1. download MAMP https://www.mamp.info/en/mamp/ click free download
+	2. go to preference and select our folder, the server should be running after selection is 		done
+	3.see the port and mysql number is correct or not in include folder , change these 2 files in that folder.
+	4.create a database which called work and then import my work.sql file.
+	5. Enter the localhost:8888 or localhost:your port
+	6. Click sign in , and then click sign up ,
+	7. click user in database then click type , enter 1 then click go and refresh your web then you become administrator.
+	8. navigate the website like any other forum website
